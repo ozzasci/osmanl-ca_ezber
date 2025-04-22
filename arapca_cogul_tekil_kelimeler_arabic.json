@@ -1,0 +1,537 @@
+[
+    {
+        "çoğul": "Mebâliğ",
+        "tekil": "Meblağ",
+        "arabic": "مهبلاغ"
+    },
+    {
+        "çoğul": "Tetimmât",
+        "tekil": "Tetimme",
+        "arabic": "تهتیممه"
+    },
+    {
+        "çoğul": "Hazâin",
+        "tekil": "Hazîne",
+        "arabic": "حازینه"
+    },
+    {
+        "çoğul": "Nukūd",
+        "tekil": "Nakd",
+        "arabic": "ناکد"
+    },
+    {
+        "çoğul": "Mesârif",
+        "tekil": "Masraf",
+        "arabic": "ماسراف"
+    },
+    {
+        "çoğul": "Eşkıyâ",
+        "tekil": "Şakī",
+        "arabic": "شاکī"
+    },
+    {
+        "çoğul": "Bugāt",
+        "tekil": "Bâgī",
+        "arabic": "باگī"
+    },
+    {
+        "çoğul": "Mütemevvilîn",
+        "tekil": "Mütemevvil",
+        "arabic": "موتهمهوویل"
+    },
+    {
+        "çoğul": "Tüccâr",
+        "tekil": "Tâcir",
+        "arabic": "تاجیر"
+    },
+    {
+        "çoğul": "Selâtîn",
+        "tekil": "Sultân",
+        "arabic": "سولتان"
+    },
+    {
+        "çoğul": "Edevât",
+        "tekil": "Edât",
+        "arabic": "هدات"
+    },
+    {
+        "çoğul": "Umûr",
+        "tekil": "Emr",
+        "arabic": "همر"
+    },
+    {
+        "çoğul": "Vâridât",
+        "tekil": "Vâride",
+        "arabic": "واریده"
+    },
+    {
+        "çoğul": "Mesârifât",
+        "tekil": "Mesârif",
+        "arabic": "مهساریف"
+    },
+    {
+        "çoğul": "Vezâif",
+        "tekil": "Vazîfe",
+        "arabic": "وازیفه"
+    },
+    {
+        "çoğul": "Husûs",
+        "tekil": "Hass",
+        "arabic": "حاسس"
+    },
+    {
+        "çoğul": "Tavâif",
+        "tekil": "Tâife",
+        "arabic": "تایفه"
+    },
+    {
+        "çoğul": "Emvâl",
+        "tekil": "Mâl",
+        "arabic": "مال"
+    },
+    {
+        "çoğul": "Eslâf",
+        "tekil": "Selef",
+        "arabic": "سهلهف"
+    },
+    {
+        "çoğul": "Usûl",
+        "tekil": "Asl",
+        "arabic": "اسل"
+    },
+    {
+        "çoğul": "Envâʻ",
+        "tekil": "Nevʻ",
+        "arabic": "نهوʻ"
+    },
+    {
+        "çoğul": "Züyûf",
+        "tekil": "Zeyf",
+        "arabic": "زهیف"
+    },
+    {
+        "çoğul": "Tasarrufât",
+        "tekil": "Tasarruf",
+        "arabic": "تاسارروف"
+    },
+    {
+        "çoğul": "Terzîlât",
+        "tekil": "Terzîl",
+        "arabic": "تهرزیل"
+    },
+    {
+        "çoğul": "Tezlîlât",
+        "tekil": "Tezlîl",
+        "arabic": "تهزلیل"
+    },
+    {
+        "çoğul": "Tedâbîr",
+        "tekil": "Tedbîr",
+        "arabic": "تهدبیر"
+    },
+    {
+        "çoğul": "Ârâ",
+        "tekil": "Re’y",
+        "arabic": "ره’ی"
+    },
+    {
+        "çoğul": "Evkāf",
+        "tekil": "Vakf",
+        "arabic": "واکف"
+    },
+    {
+        "çoğul": "Guzât",
+        "tekil": "Gāzî",
+        "arabic": "گāزی"
+    },
+    {
+        "çoğul": "Berevât",
+        "tekil": "Berât",
+        "arabic": "بهرات"
+    },
+    {
+        "çoğul": "Evzâʻ",
+        "tekil": "Vazʻ",
+        "arabic": "وازʻ"
+    },
+    {
+        "çoğul": "Asâkir",
+        "tekil": "Asker",
+        "arabic": "اسکهر"
+    },
+    {
+        "çoğul": "Müşkilât",
+        "tekil": "Müşkil",
+        "arabic": "موشکیل"
+    },
+    {
+        "çoğul": "Tafsîlât",
+        "tekil": "Tafsîl",
+        "arabic": "تافسیل"
+    },
+    {
+        "çoğul": "Muâmelât",
+        "tekil": "Muâmele",
+        "arabic": "موامهله"
+    },
+    {
+        "çoğul": "Memâlik",
+        "tekil": "Memleket",
+        "arabic": "مهملهکهت"
+    },
+    {
+        "çoğul": "Eşyâ",
+        "tekil": "Şey’",
+        "arabic": "شهی’"
+    },
+    {
+        "çoğul": "Emtia",
+        "tekil": "Metâʻ",
+        "arabic": "مهتاʻ"
+    },
+    {
+        "çoğul": "Zehâir",
+        "tekil": "Zahîre",
+        "arabic": "زاحیره"
+    },
+    {
+        "çoğul": "Mahsûlât",
+        "tekil": "Mahsûl",
+        "arabic": "ماحسول"
+    },
+    {
+        "çoğul": "İdhâlât",
+        "tekil": "İdhâl",
+        "arabic": "ی̇دحال"
+    },
+    {
+        "çoğul": "İʻtirâzât",
+        "tekil": "İʻtirâz",
+        "arabic": "ی̇ʻتیراز"
+    },
+    {
+        "çoğul": "Meskûkât",
+        "tekil": "Meskûk",
+        "arabic": "مهسکوک"
+    },
+    {
+        "çoğul": "Tegayyürât",
+        "tekil": "Tegayyür",
+        "arabic": "تهگاییور"
+    },
+    {
+        "çoğul": "Müfredât",
+        "tekil": "Müfred",
+        "arabic": "موفرهد"
+    },
+    {
+        "çoğul": "Taʻbîrât",
+        "tekil": "Taʻbîr",
+        "arabic": "تاʻبیر"
+    },
+    {
+        "çoğul": "Hâsılât",
+        "tekil": "Hâsıl",
+        "arabic": "حاسیل"
+    },
+    {
+        "çoğul": "Ganâim",
+        "tekil": "Ganîmet",
+        "arabic": "گانیمهت"
+    },
+    {
+        "çoğul": "Muhallefât",
+        "tekil": "Muhallef",
+        "arabic": "موحاللهف"
+    },
+    {
+        "çoğul": "Vüzerâ",
+        "tekil": "Vezîr",
+        "arabic": "وهزیر"
+    },
+    {
+        "çoğul": "Ümerâ",
+        "tekil": "Emîr",
+        "arabic": "همیر"
+    },
+    {
+        "çoğul": "Taʻyînât",
+        "tekil": "Taʻyîn",
+        "arabic": "تاʻیین"
+    },
+    {
+        "çoğul": "Ağnâm",
+        "tekil": "Ganem",
+        "arabic": "گانهم"
+    },
+    {
+        "çoğul": "Ricâl",
+        "tekil": "Recül",
+        "arabic": "رهجول"
+    },
+    {
+        "çoğul": "Ketebe",
+        "tekil": "Kâtib",
+        "arabic": "کاتیب"
+    },
+    {
+        "çoğul": "Muhassasât",
+        "tekil": "Muhassas",
+        "arabic": "موحاسساس"
+    },
+    {
+        "çoğul": "Mevâsîk",
+        "tekil": "Mîsâk",
+        "arabic": "میساک"
+    },
+    {
+        "çoğul": "Sudûr",
+        "tekil": "Sadr",
+        "arabic": "سادر"
+    },
+    {
+        "çoğul": "Mevâlî",
+        "tekil": "Mevlâ",
+        "arabic": "مهولا"
+    },
+    {
+        "çoğul": "Avârız",
+        "tekil": "Ârıza",
+        "arabic": "اریزا"
+    },
+    {
+        "çoğul": "Kılâʻ",
+        "tekil": "Kalʻa",
+        "arabic": "کالʻا"
+    },
+    {
+        "çoğul": "Neferât",
+        "tekil": "Nefer",
+        "arabic": "نهفهر"
+    },
+    {
+        "çoğul": "Zuamâ",
+        "tekil": "Zaʻîm",
+        "arabic": "زاʻیم"
+    },
+    {
+        "çoğul": "Erbâb",
+        "tekil": "Rabb",
+        "arabic": "رابب"
+    },
+    {
+        "çoğul": "Ashâb",
+        "tekil": "Sâhib",
+        "arabic": "ساحیب"
+    },
+    {
+        "çoğul": "Hudûd",
+        "tekil": "Hadd",
+        "arabic": "حادد"
+    },
+    {
+        "çoğul": "Hayrât",
+        "tekil": "Hayr",
+        "arabic": "حایر"
+    },
+    {
+        "çoğul": "Cevâmiʻ",
+        "tekil": "Câmiʻ",
+        "arabic": "جامیʻ"
+    },
+    {
+        "çoğul": "Medâris",
+        "tekil": "Medrese",
+        "arabic": "مهدرهسه"
+    },
+    {
+        "çoğul": "Mekâtib",
+        "tekil": "Mekteb",
+        "arabic": "مهکتهب"
+    },
+    {
+        "çoğul": "Ebniyâ",
+        "tekil": "Binâ",
+        "arabic": "بینا"
+    },
+    {
+        "çoğul": "Bilâd",
+        "tekil": "Belde",
+        "arabic": "بهلده"
+    },
+    {
+        "çoğul": "Kasabât",
+        "tekil": "Kasaba",
+        "arabic": "کاسابا"
+    },
+    {
+        "çoğul": "Ulûm",
+        "tekil": "İlm",
+        "arabic": "ی̇لم"
+    },
+    {
+        "çoğul": "Fünûn",
+        "tekil": "Fenn",
+        "arabic": "فهنن"
+    },
+    {
+        "çoğul": "Talebe",
+        "tekil": "Tâlib",
+        "arabic": "تالیب"
+    },
+    {
+        "çoğul": "Hademe",
+        "tekil": "Hâdim",
+        "arabic": "حادیم"
+    },
+    {
+        "çoğul": "Elbise",
+        "tekil": "Libâs",
+        "arabic": "لیباس"
+    },
+    {
+        "çoğul": "Tekâlîf",
+        "tekil": "Teklîf",
+        "arabic": "تهکلیف"
+    },
+    {
+        "çoğul": "Meârif",
+        "tekil": "Maʻrifet",
+        "arabic": "ماʻریفهت"
+    },
+    {
+        "çoğul": "Erkân",
+        "tekil": "Rükn",
+        "arabic": "روکن"
+    },
+    {
+        "çoğul": "Âsâr",
+        "tekil": "Eser",
+        "arabic": "هسهر"
+    },
+    {
+        "çoğul": "Ebsâr",
+        "tekil": "Basar",
+        "arabic": "باسار"
+    },
+    {
+        "çoğul": "Musâderât",
+        "tekil": "Musâdere",
+        "arabic": "موسادهره"
+    },
+    {
+        "çoğul": "Makālât",
+        "tekil": "Makāle",
+        "arabic": "ماکāله"
+    },
+    {
+        "çoğul": "Izâm",
+        "tekil": "Azîm",
+        "arabic": "ازیم"
+    },
+    {
+        "çoğul": "Menâsıb",
+        "tekil": "Mansıb",
+        "arabic": "مانسیب"
+    },
+    {
+        "çoğul": "Mesâlih",
+        "tekil": "Maslahat",
+        "arabic": "ماسلاحات"
+    },
+    {
+        "çoğul": "Esliha",
+        "tekil": "Silâh",
+        "arabic": "سیلاح"
+    },
+    {
+        "çoğul": "Hayvânât",
+        "tekil": "Hayvân",
+        "arabic": "حایوان"
+    },
+    {
+        "çoğul": "Mühimmât",
+        "tekil": "Mühimme",
+        "arabic": "موحیممه"
+    },
+    {
+        "çoğul": "Verese",
+        "tekil": "Vâris",
+        "arabic": "واریس"
+    },
+    {
+        "çoğul": "Emlâk",
+        "tekil": "Mülk",
+        "arabic": "مولک"
+    },
+    {
+        "çoğul": "Evlâd",
+        "tekil": "Veled",
+        "arabic": "وهلهد"
+    },
+    {
+        "çoğul": "Müteferriât",
+        "tekil": "Müteferriʻ",
+        "arabic": "موتهفهرریʻ"
+    },
+    {
+        "çoğul": "Atâyâ",
+        "tekil": "Atıyye",
+        "arabic": "اتیییه"
+    },
+    {
+        "çoğul": "Esâs",
+        "tekil": "Üss",
+        "arabic": "وسس"
+    },
+    {
+        "çoğul": "İstiʻmâlât",
+        "tekil": "İstiʻmâl",
+        "arabic": "ی̇ستیʻمال"
+    },
+    {
+        "çoğul": "Me’mûrîn",
+        "tekil": "Me’mûr",
+        "arabic": "مه’مور"
+    },
+    {
+        "çoğul": "Mültezimîn",
+        "tekil": "Mültezim",
+        "arabic": "مولتهزیم"
+    },
+    {
+        "çoğul": "Ağniyâ",
+        "tekil": "Ganî",
+        "arabic": "گانی"
+    },
+    {
+        "çoğul": "Aʻdâ",
+        "tekil": "Adüvv",
+        "arabic": "ادووو"
+    },
+    {
+        "çoğul": "Kuyûd",
+        "tekil": "Kayd",
+        "arabic": "کاید"
+    },
+    {
+        "çoğul": "Maâdin",
+        "tekil": "Maʻden",
+        "arabic": "ماʻدهن"
+    },
+    {
+        "çoğul": "Evkāt",
+        "tekil": "Vakt",
+        "arabic": "واکت"
+    },
+    {
+        "çoğul": "Müft-hârân",
+        "tekil": "Müft-hâr",
+        "arabic": "موفت-حار"
+    },
+    {
+        "çoğul": "Müteneffizân",
+        "tekil": "Müteneffiz",
+        "arabic": "موتهنهففیز"
+    }
+]

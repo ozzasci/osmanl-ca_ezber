@@ -1,0 +1,372 @@
+[
+    {
+        "kelime": "Bârü",
+        "anlam": "Duvar, burç",
+        "arabic": "بارو"
+    },
+    {
+        "kelime": "Mir",
+        "anlam": "Emir, bey",
+        "arabic": "میر"
+    },
+    {
+        "kelime": "Mirân",
+        "anlam": "Emirler, beyler",
+        "arabic": "میران"
+    },
+    {
+        "kelime": "Bed",
+        "anlam": "Kötü",
+        "arabic": "بهد"
+    },
+    {
+        "kelime": "Nihâd",
+        "anlam": "Huy, karakter",
+        "arabic": "نیحاد"
+    },
+    {
+        "kelime": "-zâde",
+        "anlam": "-oğlu",
+        "arabic": "-زاده"
+    },
+    {
+        "kelime": "-dâr",
+        "anlam": "-tutan",
+        "arabic": "-دار"
+    },
+    {
+        "kelime": "Alây",
+        "anlam": "Alay",
+        "arabic": "الای"
+    },
+    {
+        "kelime": "Peymân",
+        "anlam": "Ant, yemin",
+        "arabic": "پهیمان"
+    },
+    {
+        "kelime": "-güy",
+        "anlam": "-söyleyen",
+        "arabic": "-گوی"
+    },
+    {
+        "kelime": "Tiğ",
+        "anlam": "Kılıç",
+        "arabic": "تیغ"
+    },
+    {
+        "kelime": "Diriğ",
+        "anlam": "Esirgeme",
+        "arabic": "دیریغ"
+    },
+    {
+        "kelime": "Dil",
+        "anlam": "Gönül",
+        "arabic": "دیل"
+    },
+    {
+        "kelime": "Tüvân",
+        "anlam": "Güç, kuvvet, tâkat",
+        "arabic": "تووان"
+    },
+    {
+        "kelime": "Tev’em",
+        "anlam": "İkiz",
+        "arabic": "تهو’هم"
+    },
+    {
+        "kelime": "Şir",
+        "anlam": "Arslan",
+        "arabic": "شیر"
+    },
+    {
+        "kelime": "Jiyân",
+        "anlam": "Kızgın, kükremiş",
+        "arabic": "جییان"
+    },
+    {
+        "kelime": "Destân",
+        "anlam": "Destan, hikaye",
+        "arabic": "دهستان"
+    },
+    {
+        "kelime": "Merd",
+        "anlam": "Kişi, erkek",
+        "arabic": "مهرد"
+    },
+    {
+        "kelime": "Sipâriş",
+        "anlam": "Ismarlama",
+        "arabic": "سیپاریش"
+    },
+    {
+        "kelime": "Peyâm",
+        "anlam": "Haber",
+        "arabic": "پهیام"
+    },
+    {
+        "kelime": "-güne",
+        "anlam": "… gibi, tarz, tür",
+        "arabic": "-گونه"
+    },
+    {
+        "kelime": "Avâz",
+        "anlam": "Ses, seda",
+        "arabic": "اواز"
+    },
+    {
+        "kelime": "Girift",
+        "anlam": "Tutma, yakalama; dolayı, karışık",
+        "arabic": "گیریفت"
+    },
+    {
+        "kelime": "Azât",
+        "anlam": "Serbest, hür",
+        "arabic": "ازات"
+    },
+    {
+        "kelime": "Müjde",
+        "anlam": "Muştu, sevinç haberi",
+        "arabic": "موجده"
+    },
+    {
+        "kelime": "Asitâne",
+        "anlam": "Eşik, payitaht, İstanbul’un adı",
+        "arabic": "اسیتانه"
+    },
+    {
+        "kelime": "Peydâ",
+        "anlam": "Meydanda, açıkta",
+        "arabic": "پهیدا"
+    },
+    {
+        "kelime": "-kâr",
+        "anlam": "-yapan, -yapıcı",
+        "arabic": "-کار"
+    },
+    {
+        "kelime": "Piyâde",
+        "anlam": "Yaya",
+        "arabic": "پییاده"
+    },
+    {
+        "kelime": "Süvâri",
+        "anlam": "Atlı",
+        "arabic": "سوواری"
+    },
+    {
+        "kelime": "Şehriyâr",
+        "anlam": "Hükümdar, padişah",
+        "arabic": "شهحرییار"
+    },
+    {
+        "kelime": "Dest",
+        "anlam": "El",
+        "arabic": "دهست"
+    },
+    {
+        "kelime": "Hüsn",
+        "anlam": "Güzel, güzellik",
+        "arabic": "حوسن"
+    },
+    {
+        "kelime": "Tab‘",
+        "anlam": "Tabiat, yaratılış, huy",
+        "arabic": "تاب‘"
+    },
+    {
+        "kelime": "Sîm",
+        "anlam": "Gümüş",
+        "arabic": "سیم"
+    },
+    {
+        "kelime": "Zerr",
+        "anlam": "Altın",
+        "arabic": "زهرر"
+    },
+    {
+        "kelime": "Kal‘a",
+        "anlam": "Kale",
+        "arabic": "کال‘ا"
+    },
+    {
+        "kelime": "Serdâr",
+        "anlam": "Komutan, lider",
+        "arabic": "سهردار"
+    },
+    {
+        "kelime": "Zafer",
+        "anlam": "Zafer, galibiyet",
+        "arabic": "زافهر"
+    },
+    {
+        "kelime": "Encâm",
+        "anlam": "Sonuç, akıbet",
+        "arabic": "هنجام"
+    },
+    {
+        "kelime": "Defter-dâr",
+        "anlam": "Defter tutan",
+        "arabic": "دهفتهر-دار"
+    },
+    {
+        "kelime": "Ordu",
+        "anlam": "Asker, ordu",
+        "arabic": "وردو"
+    },
+    {
+        "kelime": "Diyâr",
+        "anlam": "Ülke, şehirler",
+        "arabic": "دییار"
+    },
+    {
+        "kelime": "Kabza",
+        "anlam": "El, hâkimiyet",
+        "arabic": "کابزا"
+    },
+    {
+        "kelime": "Vezir",
+        "anlam": "Vezir, devlet adamı",
+        "arabic": "وهزیر"
+    },
+    {
+        "kelime": "Harâbe",
+        "anlam": "Harabe, yıkıntı",
+        "arabic": "حارابه"
+    },
+    {
+        "kelime": "Mikdâr",
+        "anlam": "Miktar, değer",
+        "arabic": "میکدار"
+    },
+    {
+        "kelime": "Sengistân",
+        "anlam": "Taşlık yer",
+        "arabic": "سهنگیستان"
+    },
+    {
+        "kelime": "Dağıstân",
+        "anlam": "Dağlık yer",
+        "arabic": "داغیستان"
+    },
+    {
+        "kelime": "Guzât",
+        "anlam": "Gaziler",
+        "arabic": "گوزات"
+    },
+    {
+        "kelime": "Şimşir",
+        "anlam": "Kılıç",
+        "arabic": "شیمشیر"
+    },
+    {
+        "kelime": "Bâz",
+        "anlam": "Oyun, kullanma",
+        "arabic": "باز"
+    },
+    {
+        "kelime": "Dil-dâr",
+        "anlam": "Gönül alıcı",
+        "arabic": "دیل-دار"
+    },
+    {
+        "kelime": "Nâ-tüvân",
+        "anlam": "Güçsüz, kuvvetsiz",
+        "arabic": "نا-تووان"
+    },
+    {
+        "kelime": "Tev’emân",
+        "anlam": "İkizler",
+        "arabic": "تهو’همان"
+    },
+    {
+        "kelime": "Pehlevân",
+        "anlam": "Güreşçi, pehlivan",
+        "arabic": "پهحلهوان"
+    },
+    {
+        "kelime": "Kadem",
+        "anlam": "Ayak",
+        "arabic": "کادهم"
+    },
+    {
+        "kelime": "Güzerân",
+        "anlam": "Geçici, geçen [olmak]",
+        "arabic": "گوزهران"
+    },
+    {
+        "kelime": "Dilir",
+        "anlam": "Yürekli, cesur",
+        "arabic": "دیلیر"
+    },
+    {
+        "kelime": "Bayrak-dâr",
+        "anlam": "Bayraktutan, sancaktar",
+        "arabic": "بایراک-دار"
+    },
+    {
+        "kelime": "Şarâb",
+        "anlam": "Şarap",
+        "arabic": "شاراب"
+    },
+    {
+        "kelime": "Seher",
+        "anlam": "Seher vakti",
+        "arabic": "سهحهر"
+    },
+    {
+        "kelime": "Giriftâr",
+        "anlam": "Tutulmuş, yakalanmış, esir",
+        "arabic": "گیریفتار"
+    },
+    {
+        "kelime": "Zindân",
+        "anlam": "Zindan, hapishane",
+        "arabic": "زیندان"
+    },
+    {
+        "kelime": "Şükrâne",
+        "anlam": "Teşekkür edercesine",
+        "arabic": "شوکرانه"
+    },
+    {
+        "kelime": "Hâne",
+        "anlam": "Ev, yer",
+        "arabic": "حانه"
+    },
+    {
+        "kelime": "Miri",
+        "anlam": "Devlete ait",
+        "arabic": "میری"
+    },
+    {
+        "kelime": "Sükker",
+        "anlam": "Şeker",
+        "arabic": "سوککهر"
+    },
+    {
+        "kelime": "Murabba‘",
+        "anlam": "Kare şeklinde",
+        "arabic": "موراببا‘"
+    },
+    {
+        "kelime": "Hidmet-kâr",
+        "anlam": "Hizmetkâr, hizmetçi",
+        "arabic": "حیدمهت-کار"
+    },
+    {
+        "kelime": "Hil‘at",
+        "anlam": "Hediye elbise",
+        "arabic": "حیل‘ات"
+    },
+    {
+        "kelime": "Ser-hadd",
+        "anlam": "Hudud sonu, devlet sınırı",
+        "arabic": "سهر-حادد"
+    },
+    {
+        "kelime": "Ser-güzeşt",
+        "anlam": "Sergüzeşt, başından geçenler",
+        "arabic": "سهر-گوزهشت"
+    }
+]

@@ -1,0 +1,430 @@
+[
+  {
+    "çoğul": "Mebâliğ",
+    "tekil": "Meblağ"
+  },
+  {
+    "çoğul": "Tetimmât",
+    "tekil": "Tetimme"
+  },
+  {
+    "çoğul": "Hazâin",
+    "tekil": "Hazîne"
+  },
+  {
+    "çoğul": "Nukūd",
+    "tekil": "Nakd"
+  },
+  {
+    "çoğul": "Mesârif",
+    "tekil": "Masraf"
+  },
+  {
+    "çoğul": "Eşkıyâ",
+    "tekil": "Şakī"
+  },
+  {
+    "çoğul": "Bugāt",
+    "tekil": "Bâgī"
+  },
+  {
+    "çoğul": "Mütemevvilîn",
+    "tekil": "Mütemevvil"
+  },
+  {
+    "çoğul": "Tüccâr",
+    "tekil": "Tâcir"
+  },
+  {
+    "çoğul": "Selâtîn",
+    "tekil": "Sultân"
+  },
+  {
+    "çoğul": "Edevât",
+    "tekil": "Edât"
+  },
+  {
+    "çoğul": "Umûr",
+    "tekil": "Emr"
+  },
+  {
+    "çoğul": "Vâridât",
+    "tekil": "Vâride"
+  },
+  {
+    "çoğul": "Mesârifât",
+    "tekil": "Mesârif"
+  },
+  {
+    "çoğul": "Vezâif",
+    "tekil": "Vazîfe"
+  },
+  {
+    "çoğul": "Husûs",
+    "tekil": "Hass"
+  },
+  {
+    "çoğul": "Tavâif",
+    "tekil": "Tâife"
+  },
+  {
+    "çoğul": "Emvâl",
+    "tekil": "Mâl"
+  },
+  {
+    "çoğul": "Eslâf",
+    "tekil": "Selef"
+  },
+  {
+    "çoğul": "Usûl",
+    "tekil": "Asl"
+  },
+  {
+    "çoğul": "Envâʻ",
+    "tekil": "Nevʻ"
+  },
+  {
+    "çoğul": "Züyûf",
+    "tekil": "Zeyf"
+  },
+  {
+    "çoğul": "Tasarrufât",
+    "tekil": "Tasarruf"
+  },
+  {
+    "çoğul": "Terzîlât",
+    "tekil": "Terzîl"
+  },
+  {
+    "çoğul": "Tezlîlât",
+    "tekil": "Tezlîl"
+  },
+  {
+    "çoğul": "Tedâbîr",
+    "tekil": "Tedbîr"
+  },
+  {
+    "çoğul": "Ârâ",
+    "tekil": "Re’y"
+  },
+  {
+    "çoğul": "Evkāf",
+    "tekil": "Vakf"
+  },
+  {
+    "çoğul": "Guzât",
+    "tekil": "Gāzî"
+  },
+  {
+    "çoğul": "Berevât",
+    "tekil": "Berât"
+  },
+  {
+    "çoğul": "Evzâʻ",
+    "tekil": "Vazʻ"
+  },
+  {
+    "çoğul": "Asâkir",
+    "tekil": "Asker"
+  },
+  {
+    "çoğul": "Müşkilât",
+    "tekil": "Müşkil"
+  },
+  {
+    "çoğul": "Tafsîlât",
+    "tekil": "Tafsîl"
+  },
+  {
+    "çoğul": "Muâmelât",
+    "tekil": "Muâmele"
+  },
+  {
+    "çoğul": "Memâlik",
+    "tekil": "Memleket"
+  },
+  {
+    "çoğul": "Eşyâ",
+    "tekil": "Şey’"
+  },
+  {
+    "çoğul": "Emtia",
+    "tekil": "Metâʻ"
+  },
+  {
+    "çoğul": "Zehâir",
+    "tekil": "Zahîre"
+  },
+  {
+    "çoğul": "Mahsûlât",
+    "tekil": "Mahsûl"
+  },
+  {
+    "çoğul": "İdhâlât",
+    "tekil": "İdhâl"
+  },
+  {
+    "çoğul": "İʻtirâzât",
+    "tekil": "İʻtirâz"
+  },
+  {
+    "çoğul": "Meskûkât",
+    "tekil": "Meskûk"
+  },
+  {
+    "çoğul": "Tegayyürât",
+    "tekil": "Tegayyür"
+  },
+  {
+    "çoğul": "Müfredât",
+    "tekil": "Müfred"
+  },
+  {
+    "çoğul": "Taʻbîrât",
+    "tekil": "Taʻbîr"
+  },
+  {
+    "çoğul": "Hâsılât",
+    "tekil": "Hâsıl"
+  },
+  {
+    "çoğul": "Ganâim",
+    "tekil": "Ganîmet"
+  },
+  {
+    "çoğul": "Muhallefât",
+    "tekil": "Muhallef"
+  },
+  {
+    "çoğul": "Vüzerâ",
+    "tekil": "Vezîr"
+  },
+  {
+    "çoğul": "Ümerâ",
+    "tekil": "Emîr"
+  },
+  {
+    "çoğul": "Taʻyînât",
+    "tekil": "Taʻyîn"
+  },
+  {
+    "çoğul": "Ağnâm",
+    "tekil": "Ganem"
+  },
+  {
+    "çoğul": "Ricâl",
+    "tekil": "Recül"
+  },
+  {
+    "çoğul": "Ketebe",
+    "tekil": "Kâtib"
+  },
+  {
+    "çoğul": "Muhassasât",
+    "tekil": "Muhassas"
+  },
+  {
+    "çoğul": "Mevâsîk",
+    "tekil": "Mîsâk"
+  },
+  {
+    "çoğul": "Sudûr",
+    "tekil": "Sadr"
+  },
+  {
+    "çoğul": "Mevâlî",
+    "tekil": "Mevlâ"
+  },
+  {
+    "çoğul": "Avârız",
+    "tekil": "Ârıza"
+  },
+  {
+    "çoğul": "Kılâʻ",
+    "tekil": "Kalʻa"
+  },
+  {
+    "çoğul": "Neferât",
+    "tekil": "Nefer"
+  },
+  {
+    "çoğul": "Zuamâ",
+    "tekil": "Zaʻîm"
+  },
+  {
+    "çoğul": "Erbâb",
+    "tekil": "Rabb"
+  },
+  {
+    "çoğul": "Ashâb",
+    "tekil": "Sâhib"
+  },
+  {
+    "çoğul": "Hudûd",
+    "tekil": "Hadd"
+  },
+  {
+    "çoğul": "Hayrât",
+    "tekil": "Hayr"
+  },
+  {
+    "çoğul": "Cevâmiʻ",
+    "tekil": "Câmiʻ"
+  },
+  {
+    "çoğul": "Medâris",
+    "tekil": "Medrese"
+  },
+  {
+    "çoğul": "Mekâtib",
+    "tekil": "Mekteb"
+  },
+  {
+    "çoğul": "Ebniyâ",
+    "tekil": "Binâ"
+  },
+  {
+    "çoğul": "Bilâd",
+    "tekil": "Belde"
+  },
+  {
+    "çoğul": "Kasabât",
+    "tekil": "Kasaba"
+  },
+  {
+    "çoğul": "Ulûm",
+    "tekil": "İlm"
+  },
+  {
+    "çoğul": "Fünûn",
+    "tekil": "Fenn"
+  },
+  {
+    "çoğul": "Talebe",
+    "tekil": "Tâlib"
+  },
+  {
+    "çoğul": "Hademe",
+    "tekil": "Hâdim"
+  },
+  {
+    "çoğul": "Elbise",
+    "tekil": "Libâs"
+  },
+  {
+    "çoğul": "Tekâlîf",
+    "tekil": "Teklîf"
+  },
+  {
+    "çoğul": "Meârif",
+    "tekil": "Maʻrifet"
+  },
+  {
+    "çoğul": "Erkân",
+    "tekil": "Rükn"
+  },
+  {
+    "çoğul": "Âsâr",
+    "tekil": "Eser"
+  },
+  {
+    "çoğul": "Ebsâr",
+    "tekil": "Basar"
+  },
+  {
+    "çoğul": "Musâderât",
+    "tekil": "Musâdere"
+  },
+  {
+    "çoğul": "Makālât",
+    "tekil": "Makāle"
+  },
+  {
+    "çoğul": "Izâm",
+    "tekil": "Azîm"
+  },
+  {
+    "çoğul": "Menâsıb",
+    "tekil": "Mansıb"
+  },
+  {
+    "çoğul": "Mesâlih",
+    "tekil": "Maslahat"
+  },
+  {
+    "çoğul": "Esliha",
+    "tekil": "Silâh"
+  },
+  {
+    "çoğul": "Hayvânât",
+    "tekil": "Hayvân"
+  },
+  {
+    "çoğul": "Mühimmât",
+    "tekil": "Mühimme"
+  },
+  {
+    "çoğul": "Verese",
+    "tekil": "Vâris"
+  },
+  {
+    "çoğul": "Emlâk",
+    "tekil": "Mülk"
+  },
+  {
+    "çoğul": "Evlâd",
+    "tekil": "Veled"
+  },
+  {
+    "çoğul": "Müteferriât",
+    "tekil": "Müteferriʻ"
+  },
+  {
+    "çoğul": "Atâyâ",
+    "tekil": "Atıyye"
+  },
+  {
+    "çoğul": "Esâs",
+    "tekil": "Üss"
+  },
+  {
+    "çoğul": "İstiʻmâlât",
+    "tekil": "İstiʻmâl"
+  },
+  {
+    "çoğul": "Me’mûrîn",
+    "tekil": "Me’mûr"
+  },
+  {
+    "çoğul": "Mültezimîn",
+    "tekil": "Mültezim"
+  },
+  {
+    "çoğul": "Ağniyâ",
+    "tekil": "Ganî"
+  },
+  {
+    "çoğul": "Aʻdâ",
+    "tekil": "Adüvv"
+  },
+  {
+    "çoğul": "Kuyûd",
+    "tekil": "Kayd"
+  },
+  {
+    "çoğul": "Maâdin",
+    "tekil": "Maʻden"
+  },
+  {
+    "çoğul": "Evkāt",
+    "tekil": "Vakt"
+  },
+  {
+    "çoğul": "Müft-hârân",
+    "tekil": "Müft-hâr"
+  },
+  {
+    "çoğul": "Müteneffizân",
+    "tekil": "Müteneffiz"
+  }
+]

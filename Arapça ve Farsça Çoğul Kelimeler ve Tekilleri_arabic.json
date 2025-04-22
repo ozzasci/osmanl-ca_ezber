@@ -1,0 +1,98 @@
+{
+    "Arapça": [
+        {
+            "çoğul": "Ümerâ",
+            "tekil": "Emir"
+        },
+        {
+            "çoğul": "Kibar",
+            "tekil": "Kebir"
+        },
+        {
+            "çoğul": "Bilâd",
+            "tekil": "Belde"
+        },
+        {
+            "çoğul": "Küffâr",
+            "tekil": "Kâfir"
+        },
+        {
+            "çoğul": "Kasabât",
+            "tekil": "Kasaba"
+        },
+        {
+            "çoğul": "Kurâ",
+            "tekil": "Karye"
+        },
+        {
+            "çoğul": "Bikâ’",
+            "tekil": "Buk’a"
+        },
+        {
+            "çoğul": "Zıyâ’",
+            "tekil": "Zay’a"
+        },
+        {
+            "çoğul": "A’dâ’",
+            "tekil": "Adüvv"
+        },
+        {
+            "çoğul": "Diyâr",
+            "tekil": "Dâr"
+        },
+        {
+            "çoğul": "Aklâm",
+            "tekil": "Kalem"
+        },
+        {
+            "çoğul": "Asâr",
+            "tekil": "Eser"
+        },
+        {
+            "çoğul": "Guzât",
+            "tekil": "Gazi"
+        },
+        {
+            "çoğul": "Levâzım",
+            "tekil": "Lâzime"
+        },
+        {
+            "çoğul": "Melâ’in",
+            "tekil": "Mel’ün"
+        },
+        {
+            "çoğul": "Etrâf",
+            "tekil": "Traf"
+        },
+        {
+            "çoğul": "Sâfilin",
+            "tekil": "Sâfil"
+        },
+        {
+            "çoğul": "Ahvâl",
+            "tekil": "Hâl"
+        },
+        {
+            "çoğul": "Alemin",
+            "tekil": "Alem"
+        },
+        {
+            "çoğul": "Eşyâ",
+            "tekil": "Şey’"
+        },
+        {
+            "çoğul": "Murâdât",
+            "tekil": "Murad"
+        }
+    ],
+    "Farsça": [
+        {
+            "çoğul": "Murâdât",
+            "tekil": "Mir"
+        },
+        {
+            "çoğul": "Tev’emân",
+            "tekil": "Tev’em"
+        }
+    ]
+}

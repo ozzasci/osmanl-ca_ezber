@@ -1,0 +1,194 @@
+{
+    "arapca_ismi_fail": [
+        {
+            "isim": "Canib",
+            "masdar": "Cenb"
+        },
+        {
+            "isim": "Müris",
+            "masdar": "Iras"
+        },
+        {
+            "isim": "Baki",
+            "masdar": "Beka"
+        },
+        {
+            "isim": "Kadi",
+            "masdar": "Kaza"
+        },
+        {
+            "isim": "Kail",
+            "masdar": "Kavl"
+        },
+        {
+            "isim": "Aid",
+            "masdar": "Avd"
+        },
+        {
+            "isim": "Sair",
+            "masdar": "Seyr"
+        },
+        {
+            "isim": "Yabis",
+            "masdar": "Yübüset"
+        },
+        {
+            "isim": "Cari",
+            "masdar": "Cereyan"
+        },
+        {
+            "isim": "Ali",
+            "masdar": "Uluvv"
+        },
+        {
+            "isim": "Kabil",
+            "masdar": "Kabul"
+        },
+        {
+            "isim": "Vaki",
+            "masdar": "Vuku"
+        },
+        {
+            "isim": "Tabil",
+            "masdar": "Tavaf"
+        },
+        {
+            "isim": "Müctemi",
+            "masdar": "Ictima"
+        },
+        {
+            "isim": "Zahir",
+            "masdar": "Zuhur"
+        },
+        {
+            "isim": "Vahid",
+            "masdar": "Vahdet"
+        },
+        {
+            "isim": "Bari",
+            "masdar": "Ber"
+        },
+        {
+            "isim": "Kafir",
+            "masdar": "Küfr"
+        },
+        {
+            "isim": "Gazi",
+            "masdar": "Gaza"
+        },
+        {
+            "isim": "Azim",
+            "masdar": "Azimet"
+        },
+        {
+            "isim": "Müslim",
+            "masdar": "Islam"
+        },
+        {
+            "isim": "Mütehayyir",
+            "masdar": "Tehayyür"
+        },
+        {
+            "isim": "Müskil",
+            "masdar": "Iskal"
+        },
+        {
+            "isim": "Safil",
+            "masdar": "Süful"
+        },
+        {
+            "isim": "Halik",
+            "masdar": "Halk"
+        },
+        {
+            "isim": "Lazim",
+            "masdar": "Lüzum"
+        },
+        {
+            "isim": "Safi",
+            "masdar": "Sefaat"
+        },
+        {
+            "isim": "Zayi",
+            "masdar": "Zay"
+        },
+        {
+            "isim": "Mütekait",
+            "masdar": "Tekaüt"
+        },
+        {
+            "isim": "Mülaki",
+            "masdar": "Mülakat"
+        },
+        {
+            "isim": "Fahire",
+            "masdar": "Fahr"
+        }
+    ],
+    "arapca_ismi_meful": [
+        {
+            "isim": "Meyus",
+            "masdar": "Yes"
+        },
+        {
+            "isim": "Muhtar",
+            "masdar": "Ihtiyar"
+        },
+        {
+            "isim": "Mukarrer",
+            "masdar": "Tekarrür"
+        },
+        {
+            "isim": "Mübarek",
+            "masdar": "Mübareke"
+        },
+        {
+            "isim": "Merhum",
+            "masdar": "Rahmet"
+        },
+        {
+            "isim": "Muhkem",
+            "masdar": "Ihkam"
+        },
+        {
+            "isim": "Mahud",
+            "masdar": "Ahd"
+        },
+        {
+            "isim": "Mahkut",
+            "masdar": "Halt"
+        },
+        {
+            "isim": "Mukaddem",
+            "masdar": "Takdim"
+        },
+        {
+            "isim": "Malum",
+            "masdar": "Ilm"
+        },
+        {
+            "isim": "Melun",
+            "masdar": "Lanet"
+        },
+        {
+            "isim": "Mahsur",
+            "masdar": "Hasr"
+        },
+        {
+            "isim": "Murabba",
+            "masdar": "Terbi"
+        },
+        {
+            "isim": "Mukayyed",
+            "masdar": "Takyid"
+        },
+        {
+            "isim": "Murad",
+            "masdar": "Irade"
+        },
+        {
+            "isim": "Mazul",
+            "masdar": "Azl"
+        }
+    ]
+}
