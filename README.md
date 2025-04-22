@@ -1,0 +1,1 @@
+# osmanl-ca_ezber
